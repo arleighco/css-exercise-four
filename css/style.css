@@ -63,7 +63,7 @@ h2  {
 /* MEDIA QUERIES */
 
 /* min-width 575 */
-@media screen and (min-width: 600px){
+@media screen and (min-width: 575px){
   .container  {
     width: 80%;
     margin: 0 auto;
